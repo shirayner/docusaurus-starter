@@ -103,6 +103,17 @@ const config = {
             label: '前端',
           },
           {
+            type: 'doc',
+            docId: 'Markdown/README',
+            position: 'left',
+            label: 'Markdown',
+          },
+          {
+            href: '/docs/tags',
+            position: 'right',
+            label: 'tags',
+          },
+          {
             href: 'https://github.com/shirayner',
             label: 'GitHub',
             position: 'right',
